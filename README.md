@@ -51,9 +51,7 @@ Dependencias
   - Robusto ante datos categóricos y numéricos
   - Buen rendimiento inicial incluso con pocos datos
 
-
-
-**Ingeniería de Características**
+**Características**
 
 - Se aplicó **preprocesamiento supervisado**:
   - Conversión de variables categóricas (`origen`, `destino`, `demanda`) mediante **One-Hot Encoding**
